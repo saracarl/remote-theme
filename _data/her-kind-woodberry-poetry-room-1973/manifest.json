@@ -23,6 +23,14 @@
         "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
         "type": "Canvas",
         "duration": 159,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization.json",
+            "label": "organization"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/paintings",

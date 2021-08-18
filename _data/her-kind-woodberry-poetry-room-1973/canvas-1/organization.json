@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization.json",
+  "type": "AnnotationPage",
+  "label": "organization",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "27.660653"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "34.469602"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "breath (?)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.700777"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "page turn",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "102.950403"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"her quoted kind\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.734653,47.875068"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"her kind\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "72.159199,72.964197"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"her kind\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.998741,101.027350"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.250000,15.540949"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "title",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.200000,20.050000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "stanza 1",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.320000,47.875068"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "stanza 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "48.570000,72.964197"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/organization-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "stanza 3",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/remote-theme/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "76.260000,101.027350"
+        }
+      }
+    }
+  ]
+}
